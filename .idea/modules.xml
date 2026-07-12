@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/JavaExercises.iml" filepath="$PROJECT_DIR$/JavaExercises.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/oop_java.iml" filepath="$PROJECT_DIR$/oop_java.iml" />
+>>>>>>> b09443c (feat: oop kavramlarini uyguladigim akilli filo projesi eklendi)
     </modules>
   </component>
 </project>
